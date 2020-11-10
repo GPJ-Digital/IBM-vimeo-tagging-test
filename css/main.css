@@ -73,7 +73,7 @@ span {
 }
 span img { width: 30px; }
 
-/* #button {
+#button {
    background-color: var(--cds-interactive-01, #0f62fe);
     border-color: transparent;
     border-style: solid;
@@ -84,4 +84,4 @@ span img { width: 30px; }
     letter-spacing: 1px;
     height: 40px;
     width: 178px;
-} */
+} 
